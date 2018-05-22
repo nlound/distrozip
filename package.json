@@ -1,0 +1,22 @@
+{
+  "name": "distrozip",
+  "version": "1.0.0",
+  "description": "Zipping dist folders into separate zip files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlound/distrozip.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nlound/distrozip/issues"
+  },
+  "homepage": "https://github.com/nlound/distrozip#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
